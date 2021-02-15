@@ -1,5 +1,5 @@
 
-#General Overview:
+# General Overview:
 * Our program uses the functionality of SQL in python to build a user friendly system for obtaining and recording data
 appropriately in required databases.
 * Essentially, the system allows registered users to work on “posts” and perform several tasks on them through a
