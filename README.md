@@ -1,5 +1,5 @@
 
-# General Overview:
+## General Overview:
 * Our program uses the functionality of SQL in python to build a user friendly system for obtaining and recording data
 appropriately in required databases.
 * Essentially, the system allows registered users to work on “posts” and perform several tasks on them through a
@@ -20,7 +20,7 @@ login screen or exit the program all together.
 * Populate the database by doing "< mini_proj_data.sql". This Data was prepared by Vincent Wainman, vwainman@ualberta.ca, published on 2020-09-28 and revised on 2020-10-06
 * When you run the python program, provide the name of the database as the first and only command line argument.
 
-User Guide:
+## User Guide:
 1. How to login to the database?
 (i) If you are already a registered user, just type in “y” on the login screen and enter your user id and password securely.
 (ii) If you are a new user, type in “n” on the login screen and enter a user id of your choice consisting of 4 characters followed by a password.
