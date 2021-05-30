@@ -16,7 +16,7 @@ login screen or exit the program all together.
 
 ## To test program
 * Create a database in the same directory as the downloaded project.
-* Create the appropriate tables in your SQL database by using "< prj-tables.sql"
+* Create the appropriate tables in your SQL database by using "<prj-tables.sql"
 * Populate the database by doing "< mini_proj_data.sql". This Data was prepared by Vincent Wainman, vwainman@ualberta.ca, published on 2020-09-28 and revised on 2020-10-06
 * When you run the python program "project_code.py", provide the name of the database as the first and only command line argument.
 
